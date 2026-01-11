@@ -1,8 +1,5 @@
 hello this is k8s file.
-
-
-
-
+hello this is .//
 
 
 
