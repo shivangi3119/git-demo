@@ -1,0 +1,10 @@
+hello this is k8s file.
+
+
+
+
+
+
+
+
+
